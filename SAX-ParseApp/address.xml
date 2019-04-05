@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shipping-address>
+        <add-lin1>SR Nagar</add-lin1>
+	<add-line2>Ameerpet</add-line2>
+	<city>hyderbad</city>
+	<state>Telengana State</state>
+	<country>India</country>
+	<zip>500038</zip>
+</shipping-address>
